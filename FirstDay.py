@@ -1,5 +1,5 @@
 """
- 目的：     Tensorflow学习代码练习
+ 目的：     Tensorflow学习代码练习：基础知识笔记
  @Author:  Thrones
  GitHub:   https://github.com/FightingThrones/TensorFlow
  Email:    yang18885672964@gmail.com
